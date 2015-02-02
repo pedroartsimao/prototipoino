@@ -1,2 +1,2 @@
-# prototipoino
-Protótipo que terá diversas funcionalidades do Arduino
+# Prototipoino
+Protótipo de qualquer coisa para Arduino.
